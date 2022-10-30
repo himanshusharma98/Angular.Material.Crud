@@ -1,0 +1,2 @@
+C:\Users\sharma\source\repos\Angular.Material.Crud\obj\Debug\Angular.Material.Crud.esproj.SuggestedBindingRedirects.cache
+C:\Users\sharma\source\repos\Angular.Material.Crud\obj\Debug\Angular.Material.Crud.esproj.CoreCompileInputs.cache
